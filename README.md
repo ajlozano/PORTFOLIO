@@ -2,7 +2,7 @@
 
 <br/><br/>
 
-## Wish I Watch
+# Wish I Watch
 
 <p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/WishIWatch/WishIWatch.gif?raw=true" alt="Wish I Watch GIF" align="right" width="270"/></p>
 
@@ -30,7 +30,7 @@
 <p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/WishIWatch/WishIWatch_mockup2.png?raw=true" alt="Wish I Watch mockups" width="1000"/>
 </p>
 
-## FlashChat
+# FlashChat
 
 
 **Flash Chat** is a simple chat app developed to show **Firebase storage and authentification** usage. You can simply login or register any account (no verification required) and test conversations through **table view cells**.
@@ -55,7 +55,7 @@
 
 <br/><br/>
 
-## Pendist
+# Pendist
 
 
 <p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/Pendist/Pendist.gif?raw=true" alt="Pendist GIF" align="right" width="270"/></p>
@@ -87,7 +87,7 @@ Managed with **Chameleon** and **SwiftCellKit** frameworks, items could be sorte
 
 <br/><br/>
 
-## H4CK3R-NEWS
+# H4CK3R-NEWS
 
 **H4CK3R-NEWS** is a simple way to read articles through Search Hacker News **API request**. Being my first app using **SwiftUI**, you can see how to use **table view**, **WebView** and **URLSession**.
 
@@ -110,7 +110,7 @@ Managed with **Chameleon** and **SwiftCellKit** frameworks, items could be sorte
 
 <br/><br/>
 
-## Calculator
+# Calculator
 
 <p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/Calculator/Calculator_mockup.png?raw=true" align="right" width="270"/></p>
 
