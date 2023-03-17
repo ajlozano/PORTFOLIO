@@ -9,8 +9,6 @@
   <a href="https://www.linkedin.com/in/tonilozano/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=toni%20lozano&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/Anthonayer"><img src="https://img.shields.io/static/v1?label=Twitter&message=@Anthonayer&color=green&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 
-<br/><br/>
-
 # Wish I Watch
 
 <p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/WishIWatch/WishIWatch.gif?raw=true" alt="Wish I Watch GIF" align="right" width="270"/></p>
@@ -38,6 +36,8 @@
 <p align="center">
 <p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/WishIWatch/WishIWatch_mockup2.png?raw=true" alt="Wish I Watch mockups" width="1000"/>
 </p>
+
+<br/><br/>
 
 # FlashChat
 
