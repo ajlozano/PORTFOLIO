@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/tonilozano/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=toni%20lozano&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/Anthonayer"><img src="https://img.shields.io/static/v1?label=Twitter&message=@Anthonayer&color=green&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 
-# Wish I Watch
+# Wish I Watch (iOS)
 
 <p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/WishIWatch/WishIWatch.gif?raw=true" alt="Wish I Watch GIF" align="right" width="270"/></p>
 
@@ -39,7 +39,7 @@
 
 <br/><br/>
 
-# FlashChat
+# FlashChat (iOS)
 
 
 **Flash Chat** is a simple chat app developed to show **Firebase storage and authentification** usage. You can simply login or register any account (no verification required) and test conversations through **table view cells**.
@@ -64,7 +64,7 @@
 
 <br/><br/>
 
-# Pendist
+# Pendist (iOS)
 
 
 <p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/Pendist/Pendist.gif?raw=true" alt="Pendist GIF" align="right" width="270"/></p>
@@ -96,7 +96,7 @@ Managed with **Chameleon** and **SwiftCellKit** frameworks, items could be sorte
 
 <br/><br/>
 
-# H4CK3R-NEWS
+# H4CK3R-NEWS (iOS)
 
 **H4CK3R-NEWS** is a simple way to read articles through Search Hacker News **API request**. Being my first app using **SwiftUI**, you can see how to use **table view**, **WebView** and **URLSession**.
 
@@ -119,7 +119,7 @@ Managed with **Chameleon** and **SwiftCellKit** frameworks, items could be sorte
 
 <br/><br/>
 
-# Calculator
+# Calculator (iOS)
 
 <p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/Calculator/Calculator_mockup.png?raw=true" align="right" width="270"/></p>
 
@@ -136,4 +136,50 @@ Also has been made to practice computed properties and clean code.
 
 ### 🚀 Platform
 - iOS
+
+<br/><br/> 
+<br/><br/> 
+<br/><br/> 
+<br/><br/> 
+
+# Bad Weed Never Dies (Unity)
+Survive to enemy waves as long as possible! 
+Kill them before they become invincible, in which case you can grab one of them and send it to one of the dimensional portals. 
+
+Don't touch the enemies! Use dash hability to cross throw enemies without getting hurt.
+
+This game has been developed for a GameJam in itch.io.
+
+Download:
+https://anthonayer87.itch.io/bad-weed-never-dies
+
+<p align="center">
+<p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/BadWeedNeverDies_Unity/BadWeedNeverDie.gif?raw=true" alt="Bad Weed Never Dies GIF" width="700"/>
+</p>
+
+## Credits
+### Programming and game Design:
+- Toni Lozano Fernández | [LinkedIn](https://www.linkedin.com/in/toni-lozano-fern%C3%A1ndez/) | [Twitter](https://twitter.com/Anthonayer)
+### Art:
+- All free assets has been used for this game.
+
+<br/><br/>
+
+# PEC4App (Android-Kotlin)
+
+PEC4App is an application developed for the UOC Android mastering. Using different features, I have implemented various sections from a main menu to show many skills learned during the course.
+
+## 🔨 Technologies
+
+- Android SDK
+- Kotlin
+- Xml
+- MVVM
+- API request
+- Firebase
+- Google Maps
+
+<p align="center">
+<p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/PEC4App_Android/PEC4App_mockups.png?raw=true" alt="Wish I Watch mockups" align="center" width="1000"/>
+</p>
 
