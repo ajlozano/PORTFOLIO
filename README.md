@@ -1,6 +1,13 @@
-# Portfolio
+<p align="center">
+<img src="https://github.com/ajlozano/Portfolio/blob/main/media/profileHeader.png?raw=true" alt="Wish I Watch GIF" align="center" width="270"/>
+</p>
 
-<br/><br/>
+<h2 align="center">Toni Lozano</h2>
+<p align="center">iOS developer, hobbist game creator, music and guitar enthusiast.</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tonilozano/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=toni%20lozano&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Anthonayer"><img src="https://img.shields.io/static/v1?label=Twitter&message=@Anthonayer&color=green&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 
 # Wish I Watch
 
@@ -29,6 +36,8 @@
 <p align="center">
 <p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/WishIWatch/WishIWatch_mockup2.png?raw=true" alt="Wish I Watch mockups" width="1000"/>
 </p>
+
+<br/><br/>
 
 # FlashChat
 
