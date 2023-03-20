@@ -180,6 +180,6 @@ PEC4App is an application developed for the UOC Android mastering. Using differe
 - Google Maps
 
 <p align="center">
-<p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/PEC4App_Android/PEC4App_mockups.png?raw=true" alt="Wish I Watch mockups" align="center" width="1000"/>
+<p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/PEC4App_Android/PEC4App_mockups.png?raw=true" alt="PEC4App mockups" align="center" width="1000"/>
 </p>
 
