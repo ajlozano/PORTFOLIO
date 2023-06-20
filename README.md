@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tonilozano/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=toni%20lozano&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/Anthonayer"><img src="https://img.shields.io/static/v1?label=Twitter&message=@Anthonayer&color=green&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://github.com/ajlozano/Portfolio/raw/main/media/CV_Toni_eng(2023).pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Toni Lozano&color=red&style=for-the-badge"></a>&nbsp;&nbsp;
+    <a href="https://github.com/ajlozano/Portfolio/raw/main/media/CV_Toni_eng.pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Toni Lozano&color=red&style=for-the-badge"></a>&nbsp;&nbsp;
 
 # SomnumTracker (iOS)
 
