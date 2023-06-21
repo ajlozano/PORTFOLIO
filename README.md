@@ -37,6 +37,8 @@
 <p align="center">
 <p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/SomnumTracker/SomnumTracker_mockup2.png?raw=true" alt="SomnumTracker mockups" width="1000"/>
 </p>
+
+<br/><br/>
   
 # Wish I Watch (iOS)
 
