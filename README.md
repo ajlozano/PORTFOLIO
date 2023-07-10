@@ -28,6 +28,7 @@
 - Day/Night modes.
 - Charts
 - Table View
+- XCTesting and UITesting
 
 ### 🚀 Platform
 - iOS
@@ -60,6 +61,7 @@ using **Core Data**.
 - ViewAnimator
 - Collection View
 - Table View
+- XCTesting and UITesting
 
 ### 🚀 Platform
 - iOS
