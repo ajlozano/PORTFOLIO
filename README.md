@@ -10,7 +10,8 @@
   <a href="https://twitter.com/Anthonayer"><img src="https://img.shields.io/static/v1?label=Twitter&message=@Anthonayer&color=green&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://github.com/ajlozano/Portfolio/raw/main/media/CV_ToniLozano_eng.pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Toni Lozano&color=red&style=for-the-badge"></a>&nbsp;&nbsp;
 
-# SomnumTracker (iOS)
+# [SomnumTracker (iOS)](https://github.com/ajlozano/SomnumTracker)
+[`📲 Available on the App Store`](https://apps.apple.com/us/app/somnum-tracker/id6450696537)
 
 <p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/SomnumTracker/SomnumTracker.gif?raw=true" alt="SomnumTracker GIF" align="right" width="270"/></p>
 
@@ -40,8 +41,8 @@
 </p>
 
 <br/><br/>
-  
-# Wish I Watch (iOS)
+
+# [Wish I Watch (iOS))](https://github.com/ajlozano/Wish-I-Watch)
 
 <p><img src="https://github.com/ajlozano/Portfolio/blob/main/media/WishIWatch/WishIWatch.gif?raw=true" alt="Wish I Watch GIF" align="right" width="270"/></p>
 
